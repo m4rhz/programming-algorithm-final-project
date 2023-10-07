@@ -7,7 +7,7 @@ This application is a collection of applications that implement the use of array
 * **Hajj Travel**
 * **Motorcycle Service**
 * **Student Grades**
-* **Goods Inventory**
+* **Item Inventory**
 
 Each application has the following features:
 
